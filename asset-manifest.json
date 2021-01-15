@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/skibre-assignment/static/css/main.16c30efd.chunk.css",
+    "main.js": "/skibre-assignment/static/js/main.4933bff0.chunk.js",
+    "main.js.map": "/skibre-assignment/static/js/main.4933bff0.chunk.js.map",
+    "runtime-main.js": "/skibre-assignment/static/js/runtime-main.14701949.js",
+    "runtime-main.js.map": "/skibre-assignment/static/js/runtime-main.14701949.js.map",
+    "static/js/2.618db1c0.chunk.js": "/skibre-assignment/static/js/2.618db1c0.chunk.js",
+    "static/js/2.618db1c0.chunk.js.map": "/skibre-assignment/static/js/2.618db1c0.chunk.js.map",
+    "index.html": "/skibre-assignment/index.html",
+    "static/css/main.16c30efd.chunk.css.map": "/skibre-assignment/static/css/main.16c30efd.chunk.css.map",
+    "static/js/2.618db1c0.chunk.js.LICENSE.txt": "/skibre-assignment/static/js/2.618db1c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14701949.js",
+    "static/js/2.618db1c0.chunk.js",
+    "static/css/main.16c30efd.chunk.css",
+    "static/js/main.4933bff0.chunk.js"
+  ]
+}
